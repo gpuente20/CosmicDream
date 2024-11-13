@@ -25,4 +25,36 @@
 * Un astronauta con la ultima oportunidad para sobrevivir de alienígenas usando sus recursos que tenga a la mano teniendo dinámica de ritmo conjunto a derrotar jefes en el camino 
 
 ## Personajes 
-* El astronauta de identidad desconocida, con estética caricaturesca y animaciones simples. Los jefes siendo imponentes y masivos. Los personajes no jugables teniendo una estética similar al personaje principal 
+* El astronauta de identidad desconocida, con estética caricaturesca y animaciones simples. Los jefes siendo imponentes y masivos. Los personajes no jugables teniendo una estética similar al personaje principal
+
+## Escenarios 
+* Los escenarios siempre son lugares destruidos por la batalla, con temática de nave espacial y robótica, siendo en algunas ocasiones de fondo espacial. Los objetos teniendo poca participación, pero ayudando a la jugabilidad del jugador. 
+
+## Niveles 
+* El primer nivel introductorio a la dinámica del juego siendo el más fácil, seguido del segundo donde se debe enfrentar al jefe y aumentando la dificultad del juego, por último el nivel final en donde se debe conseguir el objetivo del juego  Cada nivel consta de una duración determinada dependiendo de la canción del mismo , siendo el soundtrack el que determina que tanto va a durar y la dificultad que tenga el nivel.
+
+## Objetivos 
+* El objetivo principal es conseguir derrotar al jefe para poder superar la etapa del nivel y seguir con el siguiente. Cada nivel constará de esquivar los obstáculos al ritmo de la canción y conseguir llegar al final del tiempo establecido con el menor daño posible antes de perder.
+
+## Reglas 
+* Dentro del juego se podrá mover entre el escenario de batalla interactuando con el jefe de distintas maneras. Sin embargo, la cámara siempre será estática a favor del jefe siguiendo en la mayoría del tiempo. Se tendrá una sola vida por nivel hasta que se completé al 100% 
+
+## Interfaz Gráfica 
+* El menú principal dará inicio a la sección de niveles y configuración. Una vez dentro del nivel habrá un menú secundario donde se podrá reiniciar y volver al inicio. No tendrá ningún dialogo siendo todo narrado desde la perspectiva de los sucesos del juego. 
+
+## Tipo de Visualización: 
+* 2D 
+
+# Tercera parte Planificación. - A través de Scrum 
+
+## Definir el rol dentro del equipo. 
+* Diseñadores:  
+  * Cesar Guerrero Cruz 
+* Artistas: 
+  * Cesar Guerrero Cruz 
+* Programadores: 
+  * Cesar Guerrero Cruz 
+* Sonido:
+  * Cesar Guerrero Cruz 
+ 	 
+

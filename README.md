@@ -1,5 +1,5 @@
 # CosmicDream
-url(https://github.com/gpuente20/CosmicDream/blob/main/PORTADA.png)
+ ![](https://github.com/gpuente20/CosmicDream/blob/main/PORTADA.png)
 ## Descripción: 
 * Tu eres sobreviviente de una nave espacial que enfrenta a diferentes jefes en el espacio. Con una banda sonora que acompaña cada nivel.  
 

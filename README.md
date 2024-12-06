@@ -1,6 +1,6 @@
 # CosmicDream
 ## Descripción: 
-* Trata acerca de un sobreviviente de una nave espacial que enfrenta a diferentes jefes en el espacio.  
+* Tu eres sobreviviente de una nave espacial que enfrenta a diferentes jefes en el espacio. Con una banda sonora que acompaña cada nivel.  
 
 ## Plataforma 
 * El juego planea ser para pc  
@@ -26,6 +26,8 @@
 
 ## Personajes 
 * El astronauta de identidad desconocida, con estética caricaturesca y animaciones simples. Los jefes siendo imponentes y masivos. Los personajes no jugables teniendo una estética similar al personaje principal
+
+  
 
 ## Escenarios 
 * Los escenarios siempre son lugares destruidos por la batalla, con temática de nave espacial y robótica, siendo en algunas ocasiones de fondo espacial. Los objetos teniendo poca participación, pero ayudando a la jugabilidad del jugador. 
